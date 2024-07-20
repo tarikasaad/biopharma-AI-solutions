@@ -1,1 +1,1 @@
-# biopharma-AI
+# biopharma-AI-solutions
